@@ -8,7 +8,7 @@
 
 [![Versão](https://img.shields.io/badge/vers%C3%A3o-6.2.0-blue.svg)](CHANGELOG.md)
 [![Canal](https://img.shields.io/badge/canal-stable-brightgreen.svg)](CHANGELOG.md)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Vendas%20e%20Suporte-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/5569981028003)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Vendas%20e%20Suporte-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/556981028003)
 
 ---
 
@@ -101,15 +101,21 @@ Fale com a nossa equipe — atendimento humano para tirar dúvidas, contratar ou
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(69)%2098102--8003-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5569981028003)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(69)%208102--8003-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556981028003)
 [![Email](https://img.shields.io/badge/Email-contato@lojadescripts.net-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@lojadescripts.net)
 [![Website](https://img.shields.io/badge/Website-lojadescripts.net-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lojadescripts.net)
 
 </div>
 
-- 💬 **WhatsApp (Vendas e Suporte):** [(69) 98102-8003](https://wa.me/5569981028003)
+- 💬 **WhatsApp (Vendas e Suporte):** [(69) 8102-8003](https://wa.me/556981028003)
 - 📧 **E-mail:** contato@lojadescripts.net
 - 🌐 **Site:** [lojadescripts.net](https://lojadescripts.net)
+
+---
+
+## 📄 Licença
+
+Distribuído sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
