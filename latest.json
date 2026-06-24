@@ -1,0 +1,15 @@
+﻿{
+  "product": "WhatsPainel",
+  "channel": "stable",
+  "latest_version": "v6.2.0",
+  "version_code": 60200,
+  "title": "WhatsPainel 6.2.0",
+  "published_at": "2026-06-24T12:00:00Z",
+  "required": false,
+  "severity": "normal",
+  "minimum_supported_version": "v6.0.0",
+  "public_release_url": "https://meupost.github.io/WhatsPainel-Updates/releases/v6.2.0.html",
+  "notes_file": "releases/v6.2.0.md",
+  "body_markdown": "## WhatsPainel 6.2.0\n\nVersao estavel atual da plataforma WhatsPainel.\n\n- Multi-atendimento e multi-empresa (SaaS)\n- Flow Builder visual e chatbots\n- Campanhas, integracoes e relatorios",
+  "summary": "Versao estavel atual da plataforma WhatsPainel."
+}
