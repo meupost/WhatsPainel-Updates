@@ -1,4 +1,9 @@
-﻿# 📋 Changelog
+# 📋 Changelog
+
+## v6.2.1 - 2026-06-25
+
+Bug Fixes
+
 
 Todas as versões publicadas do WhatsPainel ficam registradas aqui.
 O formato segue o padrão [Keep a Changelog](https://keepachangelog.com/pt-BR/)
