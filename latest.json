@@ -8,7 +8,7 @@
   "required": false,
   "severity": "normal",
   "minimum_supported_version": "v0.0.0",
-  "public_release_url": "https://meupost.github.io/WhatsPainel-Updates/releases/v6.2.1.html",
+  "public_release_url": "https://github.com/meupost/WhatsPainel-Updates/blob/main/releases/v6.2.1.md",
   "notes_file": "releases/v6.2.1.md",
   "body_markdown": "\n\n### Bug Fixes\n\n* **changelog:** reorganiza seções e remove duplicatas na versão 6.0.8 ([ce02b74]())\n* **chat:** remover conversa do chat interno ao deletar usuario ([0d26697]())\n* **contacts:** amplia profilePicUrl para TEXT e evita erro de URL longa ([d3d89ee]())\n* **flowbuilder:** corrigir mensagem em branco no no ChatGPT ([3dc49db]())\n* **socket:** alinhar socket com a referencia e corrigir online e lastMessage ([a100ed6]())\n* **tickets:** corrige tela branca ao abrir ticket com nota de usuario removido ([0e438ef]())\n* **tickets:** corrigir abertura de atendimento via url /n/numero ([72abaf5]())\n* **tickets:** permite fechar tickets de conexão deletada ([c0a32ea]())\n* **whatsapp:** corrigir entrega de mensagens para contatos LID ([5ebeb99]())\n* **whatsapp:** priorizar [@lid](https://github.com/lid) e validar destino no formatChatId ([aeec1c3]())\n\n\n### Features\n\n* **messages:** suportar templates, botoes, lista e PIX no recebimento ([c49cc5b]())",
   "summary": "Bug Fixes",
