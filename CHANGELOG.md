@@ -1,5 +1,10 @@
 # 📋 Changelog
 
+## v6.2.2 - 2026-06-27
+
+updates: feed via raw do GitHub e public_release_url para o blob das notas (sem depender do Pages) ([2265e10]())
+
+
 ## v6.2.1 - 2026-06-25
 
 Bug Fixes
